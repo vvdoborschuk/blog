@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Vladimir Doborschuk
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Student of 2nd course
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: People's Friendship University of Russia
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
