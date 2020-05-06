@@ -14,23 +14,23 @@
   title = "Владимир В. Доборщук"
   [ru.params]
    description = "Сайт-резюме Доборщука Владимира Владимировича"
-  [[ru.menu.main]]
-    name = "Home"
+#  [[ru.menu.main]]
+    name = "Главная"
     url = "#about"
     weight = 10
   [[ru.menu.main]]
-    name = "Posts"
+    name = "Посты"
     url = "#posts"
     weight = 20
   [[ru.menu.main]]
-    name = "Projects"
+    name = "Проекты"
     url = "#projects"
     weight = 30
   [[ru.menu.main]]
-    name = "Publications"
+    name = "Публикации"
     url = "#featured"
     weight = 40
   [[ru.menu.main]]
-    name = "Contact"
+    name = "Контакты"
     url = "#contact"
     weight = 60
