@@ -13,8 +13,24 @@
   contentDir = "content/ru"
   title = "Владимир В. Доборщук"
   [ru.params]
-   description = "Site description in Chinese..."
+   description = "Сайт-резюме Доборщука Владимира Владимировича"
   [[ru.menu.main]]
-    name = "Wo"
+    name = "Home"
     url = "#about"
-    weight = 1
+    weight = 10
+  [[ru.menu.main]]
+    name = "Posts"
+    url = "#posts"
+    weight = 20
+  [[ru.menu.main]]
+    name = "Projects"
+    url = "#projects"
+    weight = 30
+  [[ru.menu.main]]
+    name = "Publications"
+    url = "#featured"
+    weight = 40
+  [[ru.menu.main]]
+    name = "Contact"
+    url = "#contact"
+    weight = 60
