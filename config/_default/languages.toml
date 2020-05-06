@@ -14,7 +14,7 @@
   title = "Владимир В. Доборщук"
   [ru.params]
    description = "Сайт-резюме Доборщука Владимира Владимировича"
-#  [[ru.menu.main]]
+  [[ru.menu.main]]
     name = "Главная"
     url = "#about"
     weight = 10
