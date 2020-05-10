@@ -20,6 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My activity is aimed at obtaining theoretical and practical knowledge for successful implementation in the future.
 
+<!--
 interests:
 - Site layout and web interface development
 - Development of application software
@@ -33,6 +34,7 @@ education:
   - course: Cambridge English Exam
     institution: English Language School
     year: 2015
+-->
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -60,12 +62,14 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "1032186063@pfur.ru"
 
+<!--
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
 - Visitors
 ---
+-->
 
 Vladimir Doborschuk, a student of RUDN, studying in the direction of "Fundamental Informatics and Information Technologies". The main profile is researches of information technologies and programming. Has both practical and theoretical knowledge in this field.
 
