@@ -8,29 +8,29 @@
   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
 # Uncomment the lines below to configure your website in a second language.
-[ru]
- languageCode = "ru-ru"
-  contentDir = "content/ru"
-  title = "Владимир В. Доборщук"
-  [ru.params]
-   description = "Сайт-резюме Доборщука Владимира Владимировича"
-  [[ru.menu.main]]
-    name = "Главная"
-    url = "#about"
-    weight = 10
-  [[ru.menu.main]]
-    name = "Посты"
-    url = "#posts"
-    weight = 20
-  [[ru.menu.main]]
-    name = "Проекты"
-    url = "#projects"
-    weight = 30
-  [[ru.menu.main]]
-    name = "Публикации"
-    url = "#featured"
-    weight = 40
-  [[ru.menu.main]]
-    name = "Контакты"
-    url = "#contact"
-    weight = 60
+#[ru]
+# languageCode = "ru-ru"
+#  contentDir = "content/ru"
+#  title = "Владимир В. Доборщук"
+#  [ru.params]
+#   description = "Сайт-резюме Доборщука Владимира Владимировича"
+#  [[ru.menu.main]]
+#    name = "Главная"
+#   url = "#about"
+#    weight = 10
+#  [[ru.menu.main]]
+#    name = "Посты"
+#    url = "#posts"
+#    weight = 20
+# [[ru.menu.main]]
+#    name = "Проекты"
+#    url = "#projects"
+#    weight = 30
+#  [[ru.menu.main]]
+#    name = "Публикации"
+#    url = "#featured"
+#   weight = 40
+#  [[ru.menu.main]]
+#    name = "Контакты"
+#    url = "#contact"
+#    weight = 60
