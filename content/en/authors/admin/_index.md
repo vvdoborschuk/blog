@@ -18,24 +18,21 @@ organizations:
   url: "http://www.rudn.ru/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My activity is aimed at obtaining theoretical and practical knowledge for successful implementation in the future.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Site layout and web interface development
+- Development of application software
+- Information security, computer networks
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: 2 course, continue stydying
+    institution: People's Friendship University of Russia
+    year: 2020
+  - course: Cambridge English Exam
+    institution: English Language School
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,6 +67,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Vladimir Doborschuk, a student of RUDN, studying in the direction of "Fundamental Informatics and Information Technologies". The main profile is researches of information technologies and programming. Has both practical and theoretical knowledge in this field.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+At the moment, he is practicing his skills on the job, in the direction of developing Shell scripts, site layout, and PHP development.
+
+Interested in developments in the field of artificial intelligence and information security.

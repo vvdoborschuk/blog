@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Vladimir Doborschuk
+title: Владимир Доборщук
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Student of 2nd course
+role: Студент 2-го курса
 
 # Organizations/Affiliations
 organizations:
-- name: People's Friendship University of Russia
+- name: Российский Университет Дружбы Народов
   url: "http://www.rudn.ru/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Мо я деятельность направлена на получение теоретических и практических знаний, для успешной реализации в будущем.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Верстка сайтов и разработка веб-интерфейсов
+- Разработка прикладного ПО
+- Информационная безопасность, компьютерные сети
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: 2 курс, продолжаю обучение
+    institution: Российский Университет Дружбы Народов
+    year: 2020
+  - course: Cambridge English Exam
+    institution: Школа английского языка
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,6 +67,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Владимир Доборщук, студент РУДН, обучающийся на направлении "Фундаментальная информатика и информационные технологии". Основным профилем являются информационные технологии и программирование. Обладает как прикладными, так и теоретическими знаниями в этой области.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+На данный момент времени практикует свои навыки на месте работы, в направлении разработки Shell-скриптов, верстки сайтов, разработки на PHP.
+
+Интересуется разработками в сфере искусственного интелекта и информационной безопасности.
