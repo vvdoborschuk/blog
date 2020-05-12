@@ -20,7 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My activity is aimed at obtaining theoretical and practical knowledge for successful implementation in the future.
 
-<!--
 interests:
 - Site layout and web interface development
 - Development of application software
@@ -34,7 +33,6 @@ education:
   - course: Cambridge English Exam
     institution: English Language School
     year: 2015
--->
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
