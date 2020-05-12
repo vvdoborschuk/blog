@@ -60,14 +60,12 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "1032186063@pfur.ru"
 
-<!--
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
 - Visitors
 ---
--->
 
 Vladimir Doborschuk, a student of RUDN, studying in the direction of "Fundamental Informatics and Information Technologies". The main profile is researches of information technologies and programming. Has both practical and theoretical knowledge in this field.
 
