@@ -44,7 +44,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:1032186063@pfur.ru".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/whenborsch
 - icon: google-scholar
   icon_pack: ai
   link: '#'
