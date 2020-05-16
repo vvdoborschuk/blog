@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:1032186063@pfur.ru".
+  link: 'mailto:1032186063@pfur.ru'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/whenborsch
