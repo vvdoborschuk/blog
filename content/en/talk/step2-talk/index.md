@@ -1,6 +1,6 @@
 ---
-title: Example Talk
-event: Academic Theme Conference
+title: Group Project Step 2
+event: Defending of group project
 event_url: https://example.org
 
 location: Source Themes HQ
