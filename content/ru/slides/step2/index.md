@@ -17,6 +17,8 @@ slides:
 # Модель конкуренции двух фирм
 # Этап 2
 
+___
+
 **Доклад подготовили**
 
 - *Доборщук Владимир НФИбд-01-18*
@@ -26,15 +28,13 @@ slides:
 
 ---
 
-# Содержание доклада
+## Содержание доклада
 
 1. Описание задач
 2. Рассмотрение алгоритмов
 3. Выбор алгоритма
-4. Реализация кода
----
 
-# Постановка задачи
+---
 
 Исходя из:
 
@@ -61,8 +61,6 @@ $$\begin{cases}
 
 ### Метод Эйлера
 
-.right-column70
-
 $$\begin{array}
 \overline{y}_{j+1}=\overline{y}_j+h\overline{f}(x_j,\overline{y}_j)
 \end{array}$$
@@ -75,7 +73,7 @@ $$x_{j+1}=hx_j$$
 
 ## Метод Рунге-Кутта 2-го порядка
 
-$\overline{y}_{j+1}=\overline{y}_j+\frac{h}{2}\overline{f}(x_j,\overline{y}_j)+\frac{h}{2}\overline{f}(x_{j+1},\overline{y}_{j+1})$
+$\overline{y_{j+1}}=\overline{y_j}+\frac{h}{2}\overline{f}(x_j,\overline{y_j})+\frac{h}{2}\overline{f}(x_{j+1},\overline{y_{j+1}})$
 
 $x_{j+1}=hx_j$
 
