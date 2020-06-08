@@ -13,26 +13,27 @@ slides:
   highlight_style: dracula
 ---
 
-<section data-markdown>
-                    <textarea data-template>
-                        # Модель конкуренции двух фирм
-                    </textarea>
-                </section>
-                <section data-auto-animate>
-                    <h2 data-id="code-title">Реализация программного кода</h2>
-                    <pre data-id="code-animation"><code class="matlab" data-trim data-line-numbers>
-                        function dXdt = modelcompanies(t,X,a1,a2,b,c1,c2,microStep)
-                            dx1 = (c1/c1)*X(1) - (a1/c1)*X(1)*X(1) 
-                                    - (b/c1+microStep)*X(1)*X(2);
-                            dx2 = (c2/c1)*X(2) - (a2/c1)*X(2)*X(2) - (b/c1)*X(1)*X(2);
+# Модель конкуренции двух фирм
 
-                            dXdt = [dx1; dx2];
-                        end
-                    </code></pre>
-                </section>
-                <section data-auto-animate>
-                    <h2 data-id="code-title">Реализация программного кода</h2>
-                    <pre data-id="code-animation"><code class="matlab" data-trim data-line-numbers="|3-9|11-16|18-25|27-32|34-37">
+---
+
+<section data-auto-animate>
+    <h2 data-id="code-title">Реализация программного кода</h2>
+        <pre data-id="code-animation">
+            <code class="matlab" data-trim data-line-numbers>
+            function dXdt = modelcompanies(t,X,a1,a2,b,c1,c2,microStep)
+                dx1 = (c1/c1)*X(1) - (a1/c1)*X(1)*X(1) 
+                         - (b/c1+microStep)*X(1)*X(2);
+                dx2 = (c2/c1)*X(2) - (a2/c1)*X(2)*X(2) - (b/c1)*X(1)*X(2);
+
+                dXdt = [dx1; dx2];
+            end
+            </code>
+        </pre>
+</section>
+<section data-auto-animate>
+     <h2 data-id="code-title">Реализация программного кода</h2>
+        <pre data-id="code-animation"><code class="matlab" data-trim data-line-numbers="|3-9|11-16|18-25|27-32|34-37">
                         clear
 
                         p_cr = 20;
@@ -72,4 +73,4 @@ slides:
                         hold off
 
                     </code></pre>
-                </section>
+</section>
