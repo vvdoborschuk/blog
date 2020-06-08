@@ -11,14 +11,14 @@ slides:
   # Choose a code highlighting style (if highlighting enabled in `params.toml`)
   #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
----
-
-\# Модель конкуренции двух фирм
-
-Реализация программного кода {data-id="code-title"}
-----------------------------
-
-``` {data-id="code-animation"}
+<section data-markdown>
+                    <textarea data-template>
+                        # Модель конкуренции двух фирм
+                    </textarea>
+                </section>
+                <section data-auto-animate>
+                    <h2 data-id="code-title">Реализация программного кода</h2>
+                    <pre data-id="code-animation"><code class="matlab" data-trim data-line-numbers>
                         function dXdt = modelcompanies(t,X,a1,a2,b,c1,c2,microStep)
                             dx1 = (c1/c1)*X(1) - (a1/c1)*X(1)*X(1) 
                                     - (b/c1+microStep)*X(1)*X(2);
@@ -26,12 +26,11 @@ slides:
 
                             dXdt = [dx1; dx2];
                         end
-```
-
-Реализация программного кода {data-id="code-title"}
-----------------------------
-
-``` {data-id="code-animation"}
+</code></pre>
+</section>
+<section data-auto-animate>
+                    <h2 data-id="code-title">Реализация программного кода</h2>
+                    <pre data-id="code-animation"><code class="matlab" data-trim data-line-numbers="|3-9|11-16|18-25|27-32|34-37">
                         clear
 
                         p_cr = 20;
@@ -70,4 +69,5 @@ slides:
                         plot(t0,X0(:,2), 'b')
                         hold off
 
-```
+</code></pre>
+</section>
