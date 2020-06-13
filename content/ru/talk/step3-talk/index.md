@@ -1,6 +1,6 @@
 ---
-title: Group Project Step 2
-event: Defending of group project
+title: Групповой проект Этап 3
+event: Защита группового проекта
 event_url: https://example.org
 
 location: Source Themes HQ
@@ -11,8 +11,8 @@ address:
   postcode: '94305'
   country: United States
 
-summary: An example talk using Academic's Markdown slides feature.
-abstract: "Step 2 of Science project."
+summary: Защита третьего этапа группового проекта.
+abstract: "Этап 3. Групповой проект"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -62,4 +62,4 @@ projects:
 math: true
 ---
 
-Look on your project
+3 этап группового проекта. 

@@ -1,8 +1,8 @@
 ---
-title: Slides
-summary: Science Programming second step.
+title: Слайды
+summary: Второй этап группового проекта.
 authors:
-    - Vladimir V. Doborschuk
+    - Владимир В. Доборщук
 tags: []
 categories: []
 date: "2019-02-05T00:00:00Z"

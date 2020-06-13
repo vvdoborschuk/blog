@@ -1,8 +1,8 @@
 ---
-title: Group Project Step 2
-summary: Defending group project
+title: Групповой проект второй этап
+summary: Защита группового проекта
 tags:
-- Science Programming
+- Научное программирование
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -25,4 +25,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 ---
 
-Model of two companies rivalry
+Модель конкуренции двух фирм

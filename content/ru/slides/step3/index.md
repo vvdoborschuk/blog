@@ -1,7 +1,8 @@
 ---
-title: Slides
-summary: An introduction to using Academic's Slides feature.
-authors: []
+title: Слайды
+summary: Групповой проект третий этап.
+authors:
+    - Владимир В. Доборщук
 tags: []
 categories: []
 date: "2019-02-05T00:00:00Z"

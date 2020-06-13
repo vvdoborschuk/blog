@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Hello World"
+title: "Привет мир"
 subtitle: ""
 summary: ""
 authors: []
@@ -28,4 +28,4 @@ image:
 projects: []
 ---
 
-Trying myself in posting, so I just like to say: "H3llo W0rld"
+Пробую себя в выставлении записей, поэтому просто скажу: "H3llo W0rld"
