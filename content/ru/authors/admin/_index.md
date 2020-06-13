@@ -62,7 +62,7 @@ social:
   link: https://publons.com/researcher/3631459
 - icon: mendeley
   icon_pack: ai
-  link: https://www.mendeley.com/profiles/vladimir-doborschuk                                                                                                                                                              icon_pack: ai                                                                                                                                                               link: https://www.mendeley.com/profiles/vladimir-doborschuk/
+  link: https://www.mendeley.com/profiles/vladimir-doborschuk
 - icon: coursera
   icon_pack: ai
   link: https://www.coursera.org/user/b587365bf8a42d31f8e734c22ff9a882
