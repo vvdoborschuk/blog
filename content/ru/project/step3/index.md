@@ -1,5 +1,5 @@
 ---
-title: Group Project Step 2
+title: Group Project Step 3
 summary: Defending group project
 tags:
 - Science Programming
@@ -25,4 +25,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 ---
 
-Model of two companies rivalry
+Model of two companies rivalry Step 3
